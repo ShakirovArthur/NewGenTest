@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewGenTest/static/css/main.fbb99a2c.css",
+    "main.js": "/NewGenTest/static/js/main.24da66b1.js",
+    "index.html": "/NewGenTest/index.html",
+    "main.fbb99a2c.css.map": "/NewGenTest/static/css/main.fbb99a2c.css.map",
+    "main.24da66b1.js.map": "/NewGenTest/static/js/main.24da66b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb99a2c.css",
+    "static/js/main.24da66b1.js"
+  ]
+}
