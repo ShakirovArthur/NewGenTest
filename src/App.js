@@ -6,4 +6,5 @@ export const App = () => {
             <TextArea/>
         </div>
     );
-}
+};
+
